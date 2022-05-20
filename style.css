@@ -1,0 +1,22 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background: black;
+  color: white;
+  font-family: 'Courier';
+  font-size: 6pt;
+  line-height: 4pt;
+}
+
+video {
+  text-align: center;
+  margin: 0 auto;
+  margin: 2rem;
+}
+
+div {
+  max-width: 100%;
+  margin: 0 auto;
+  text-align: center;
+}
